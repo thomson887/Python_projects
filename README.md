@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @thomson887
-- 👀 I’m interested in Data Analytics with focus on supply chain supply chain.
+- 👀 I’m a Data Scientist and have worked on multiple ML projects especially in Retail domain. 
 - 🌱 I’m currently learning different time series analysis techniques using Python and Google Big Query.
-- 💞️ I’m looking to collaborate on demand forecasting using time series models. 
+- 💞️ I would love to collaborate on demand forecasting using time series models. 
 - 📫 How to reach me on my email at justinthomson2019@gmail.com
 
 <!---
