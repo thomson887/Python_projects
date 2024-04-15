@@ -1,0 +1,15 @@
+"C:\Users\justi\OneDrive\STUDY\Python\Datproc using SparkML\natality_sparkml.py"
+
+
+gsutil cp C:/Users/justi/OneDrive/STUDY/Python/Datproc_using_SparkML/natality_sparkml.py gs://spark_ml_1
+
+
+
+REGION=us-central1
+CLUSTER_NAME=spark-ml-cluster1
+gcloud dataproc clusters create ${CLUSTER_NAME} \
+    --region ${REGION} \
+    --metadata GCS_CONNECTOR_VERSION=2.2.2
+	
+	
+	
