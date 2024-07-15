@@ -1,0 +1,63 @@
+[{
+  "_id": {
+    "$oid": "666f9b536c16e3242490defe"
+  },
+  "name": "Justin",
+  "age": 36,
+  "gpa": 3.7,
+  "fullTime": true,
+  "graduationDate": null
+},
+{
+  "_id": {
+    "$oid": "666f9bd26c16e3242490deff"
+  },
+  "name": "Yasmin",
+  "age": 37,
+  "gpa": 3.8,
+  "graduationDate": null,
+  "fullTime": false
+},
+{
+  "_id": {
+    "$oid": "666f9bd26c16e3242490df00"
+  },
+  "name": "Sofiya",
+  "age": 18,
+  "gpa": 4,
+  "graduationDate": null,
+  "fullTime": true
+},
+{
+  "_id": {
+    "$oid": "666f9bd26c16e3242490df01"
+  },
+  "name": "Frooti",
+  "age": 18,
+  "gpa": 3,
+  "graduationDate": null,
+  "fullTime": true
+},
+{
+  "_id": {
+    "$oid": "666f9d92942809dac090defe"
+  },
+  "name": "Mummy",
+  "age": 50,
+  "gpa": 3.6,
+  "fullTime": false,
+  "registerDate": {
+    "$date": "2024-02-22T00:00:00.000Z"
+  },
+  "graduationDate": null,
+  "courses": [
+    "statistics",
+    "Biology",
+    "Chemistry"
+  ],
+  "address": {
+    "street": "plot no 71",
+    "city": "Navi Mumbai",
+    "pincode": 400706
+  }
+}]
